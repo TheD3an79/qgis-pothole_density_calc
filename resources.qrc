@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/pothole_density_calc" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
